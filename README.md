@@ -54,7 +54,7 @@ $ localhost
 
 
 ### Notes: 
-if external ip status pending, do this:
+if external ip status pending, to give  privileg ports 80 to be exposed do this:
 ```sh
 $ minikube tunnel
 ```
