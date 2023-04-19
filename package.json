@@ -1,0 +1,19 @@
+{
+  "name": "k8s-javascript",
+  "version": "1.0.0",
+  "description": "just simple app to practice my k8s",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "k8s",
+    "javascript",
+    "docker"
+  ],
+  "author": "Faozi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

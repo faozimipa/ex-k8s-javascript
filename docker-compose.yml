@@ -1,0 +1,9 @@
+version: '3.9'
+
+services:
+  k8s-javascript:
+    container_name: k8s-javascript
+    image: faozi/ex-k8s-javascript:1.0.1
+    build: .
+    ports:
+      - 3000:3000
