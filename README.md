@@ -1,12 +1,5 @@
 # ex-k8s-javascript
 
-[![NPM Version][npm-version-image]][npm-url]
-[![NPM Downloads][npm-downloads-image]][npm-url]
-[![Node.js Version][node-image]][node-url]
-[![Build Status][travis-image]][travis-url]
-[![Test Coverage][coveralls-image]][coveralls-url]
-
-
 ## Install
 ini adalah project sederhana untuk berlatih k8s. project ini menggunakan minikube, docker, nodejs.
 
