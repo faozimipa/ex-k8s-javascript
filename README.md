@@ -1,7 +1,7 @@
 # ex-k8s-javascript
 
 ## Install
-ini adalah project sederhana untuk berlatih k8s. project ini menggunakan minikube, docker, nodejs.
+ini adalah projek sederhana untuk berlatih k8s. projek ini menggunakan minikube, docker, nodejs.
 
 ### clone project
 ```sh
